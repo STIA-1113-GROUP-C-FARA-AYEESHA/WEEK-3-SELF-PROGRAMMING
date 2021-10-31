@@ -34,6 +34,10 @@ public class Exercise1 {
 		System.out.println("Enter your grade for Maths in SPM: ");
 		char mathGrade = sc.next().charAt(0);
 		
+		System.out.println("Your name is " + name);
+		System.out.println("Your CGPA is " + CGPA);
+		System.out.println("Your Math grade in SPM is " + mathGrade);
+		
 		System.out.println("Enter a number: ");
 		num1 = sc.nextInt();
 		
