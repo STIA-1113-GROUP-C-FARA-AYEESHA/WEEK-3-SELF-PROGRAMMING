@@ -1,0 +1,22 @@
+
+package selfProgramming;
+
+public class Boolean {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 boolean bukakmata = true;
+		 boolean tutupmata = false; 
+		 int x = 2;
+		 int y = 10;
+		 
+		 System.out.println(bukakmata);
+		 System.out.println(tutupmata);
+		 System.out.println(x > y);
+		 System.out.println(x < y);
+		 System.out.println(x == 10);
+		 System.out.println(x == 2);
+
+	}
+
+}
